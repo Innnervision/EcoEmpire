@@ -1,0 +1,35 @@
+{
+  "packs": [
+    {
+      "name": "Kenney UI and city-style packs",
+      "license": "CC0 / public domain style free assets",
+      "usage": [
+        "ui shell references",
+        "city tiles",
+        "supporting icons"
+      ],
+      "local_paths": [
+        "assets/icons",
+        "assets/tiles",
+        "assets/_tmp_city"
+      ]
+    },
+    {
+      "name": "Local generated SFX set",
+      "license": "Project-generated",
+      "usage": [
+        "button taps",
+        "build events",
+        "alerts",
+        "economy feedback"
+      ],
+      "local_paths": [
+        "assets/audio/sfx"
+      ]
+    }
+  ],
+  "notes": [
+    "This project should stay inspired by the empire-builder genre without copying any proprietary game art or branding.",
+    "Future downloads should prefer clearly licensed free packs and be recorded here before shipping."
+  ]
+}
